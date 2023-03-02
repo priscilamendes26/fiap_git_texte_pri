@@ -1,2 +1,4 @@
 Hello world!
-Welcome go git and github learning example.
+Welcome to git and github learning example.
+Let´s learn how to code!
+
