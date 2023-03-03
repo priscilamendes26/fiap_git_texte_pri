@@ -2,3 +2,8 @@ Hello world!
 Welcome to git and github learning example.
 Let´s learn how to code!
 
+Criei a chave.
+Testando git diff. 
+git add .
+git commit-m 'inclusão'
+
